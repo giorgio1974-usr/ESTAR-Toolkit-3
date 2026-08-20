@@ -1,0 +1,209 @@
+[2026-07-24 18:57:27] [INFO] TEST
+[2026-07-24 18:57:34] [INFO] TEST
+[2026-07-24 18:57:42] [INFO] TEST
+[2026-07-24 18:58:12] [INFO] Generazione IP da 10.64.2.x a 10.64.27.x
+[2026-07-24 18:58:12] [INFO] Avvio scansione di 546 host...
+[2026-07-24 18:58:12] [INFO] Avvio RunspacePool (30 thread)...
+[2026-07-24 18:58:31] [INFO] Runspace completati: 546
+[2026-07-24 18:58:34] [INFO] Preparazione report Excel...
+[2026-07-24 18:58:34] [INFO] Template copiato.
+[2026-07-24 18:58:34] [INFO] Worksheet caricata.
+[2026-07-24 18:58:34] [INFO] Esportazione dati...
+[2026-07-24 18:58:35] [SUCCESS] Dati esportati.
+[2026-07-24 18:58:35] [INFO] Righe esportate : -1
+[2026-07-24 18:58:35] [SUCCESS] Formattazione completata.
+[2026-07-24 18:58:35] [SUCCESS] Formattazione condizionale applicata.
+[2026-07-24 18:58:35] [SUCCESS] Report creato.
+[2026-07-24 18:58:35] [SUCCESS] Report creato.
+[2026-07-24 18:58:35] [INFO] C:\ESTAR-Toolkit-v2\Reports\PingMassivo_20260724_185834.xlsx
+[2026-07-24 19:00:09] [INFO] Apertura report...
+[2026-07-24 19:00:09] [SUCCESS] Report salvato.
+[2026-07-27 09:01:08] [INFO] Generazione IP da 10.64.39.x a 10.64.39.x
+[2026-07-27 09:01:08] [INFO] Avvio scansione di 254 host...
+[2026-07-27 09:01:08] [INFO] Avvio RunspacePool (30 thread)...
+[2026-07-27 09:01:28] [INFO] Runspace completati: 254
+[2026-07-27 09:01:31] [INFO] Preparazione report Excel...
+[2026-07-27 09:01:31] [INFO] Template copiato.
+[2026-07-27 09:01:31] [INFO] Worksheet caricata.
+[2026-07-27 09:01:31] [INFO] Esportazione dati...
+[2026-07-27 09:01:31] [SUCCESS] Dati esportati.
+[2026-07-27 09:01:32] [INFO] Righe esportate : -1
+[2026-07-27 09:01:32] [SUCCESS] Formattazione completata.
+[2026-07-27 09:01:32] [SUCCESS] Formattazione condizionale applicata.
+[2026-07-27 09:01:32] [SUCCESS] Report creato.
+[2026-07-27 09:01:32] [SUCCESS] Report creato.
+[2026-07-27 09:01:32] [INFO] C:\ESTAR-Toolkit-v2\Reports\PingMassivo_20260727_090131.xlsx
+[2026-07-27 09:07:01] [SUCCESS] Report salvato.
+[2026-07-27 09:28:28] [INFO] Generazione IP da 10.64.39.x a 10.64.39.x
+[2026-07-27 09:28:28] [INFO] Avvio scansione di 50 host...
+[2026-07-27 09:28:37] [INFO] Runspace completati: 50
+[2026-07-27 09:28:38] [INFO] Preparazione report Excel...
+[2026-07-27 09:28:38] [INFO] Template copiato.
+[2026-07-27 09:28:38] [INFO] Worksheet caricata.
+[2026-07-27 09:28:38] [INFO] Esportazione dati...
+[2026-07-27 09:28:38] [SUCCESS] Dati esportati.
+[2026-07-27 09:28:39] [INFO] Righe esportate : -1
+[2026-07-27 09:28:39] [SUCCESS] Formattazione completata.
+[2026-07-27 09:28:39] [SUCCESS] Formattazione condizionale applicata.
+[2026-07-27 09:28:39] [SUCCESS] Report creato.
+[2026-07-27 09:28:39] [SUCCESS] Report creato.
+[2026-07-27 09:28:39] [INFO] C:\ESTAR-Toolkit-v2\Reports\PingMassivo_20260727_092838.xlsx
+[2026-07-27 09:28:44] [SUCCESS] Report salvato.
+[2026-07-27 09:43:38] [INFO] Generazione IP da 10.64.39.x a 10.64.39.x
+[2026-07-27 09:43:38] [INFO] Avvio scansione di 39 host...
+[2026-07-27 09:43:38] [INFO] Avvio RunspacePool (30 thread)...
+[2026-07-27 09:43:47] [INFO] Runspace completati: 39
+[2026-07-27 09:43:48] [INFO] Preparazione report Excel...
+[2026-07-27 09:43:48] [INFO] Template copiato.
+[2026-07-27 09:43:48] [INFO] Worksheet caricata.
+[2026-07-27 09:43:48] [INFO] Esportazione dati...
+[2026-07-27 09:43:48] [SUCCESS] Dati esportati.
+[2026-07-27 09:43:48] [INFO] Righe esportate : -1
+[2026-07-27 09:43:48] [SUCCESS] Formattazione completata.
+[2026-07-27 09:43:48] [SUCCESS] Formattazione condizionale applicata.
+[2026-07-27 09:43:48] [SUCCESS] Report creato.
+[2026-07-27 09:43:48] [SUCCESS] Report creato.
+[2026-07-27 09:43:48] [INFO] C:\ESTAR-Toolkit-v2\Reports\PingMassivo_20260727_094348.xlsx
+[2026-07-27 09:46:19] [SUCCESS] Report salvato.
+[2026-07-27 09:46:26] [INFO] Generazione IP da 10.64.39.x a 10.64.39.x
+[2026-07-27 09:46:26] [INFO] Avvio scansione di 29 host...
+[2026-07-27 09:46:26] [INFO] Avvio RunspacePool (30 thread)...
+[2026-07-27 09:46:35] [INFO] Runspace completati: 29
+[2026-07-27 09:46:35] [INFO] Preparazione report Excel...
+[2026-07-27 09:46:35] [INFO] Template copiato.
+[2026-07-27 09:46:35] [INFO] Worksheet caricata.
+[2026-07-27 09:46:35] [INFO] Esportazione dati...
+[2026-07-27 09:46:35] [SUCCESS] Dati esportati.
+[2026-07-27 09:46:35] [INFO] Righe esportate : -1
+[2026-07-27 09:46:36] [SUCCESS] Formattazione completata.
+[2026-07-27 09:46:36] [SUCCESS] Formattazione condizionale applicata.
+[2026-07-27 09:46:36] [SUCCESS] Report creato.
+[2026-07-27 09:46:36] [SUCCESS] Report creato.
+[2026-07-27 09:46:36] [INFO] C:\ESTAR-Toolkit-v2\Reports\PingMassivo_20260727_094635.xlsx
+[2026-07-27 09:46:39] [SUCCESS] Report salvato.
+[2026-07-27 09:48:31] [INFO] Generazione IP da 10.64.39.x a 10.64.39.x
+[2026-07-27 09:48:31] [INFO] Avvio scansione di 29 host...
+[2026-07-27 09:48:31] [INFO] Avvio RunspacePool (30 thread)...
+[2026-07-27 09:48:39] [INFO] Runspace completati: 29
+[2026-07-27 09:48:40] [INFO] Preparazione report Excel...
+[2026-07-27 09:48:40] [INFO] Template copiato.
+[2026-07-27 09:48:40] [INFO] Worksheet caricata.
+[2026-07-27 09:48:40] [INFO] Esportazione dati...
+[2026-07-27 09:48:40] [SUCCESS] Dati esportati.
+[2026-07-27 09:48:40] [INFO] Righe esportate : -1
+[2026-07-27 09:48:41] [SUCCESS] Formattazione completata.
+[2026-07-27 09:48:41] [SUCCESS] Formattazione condizionale applicata.
+[2026-07-27 09:48:41] [SUCCESS] Report creato.
+[2026-07-27 09:48:41] [SUCCESS] Report creato.
+[2026-07-27 09:48:41] [INFO] C:\ESTAR-Toolkit-v2\Reports\PingMassivo_20260727_094840.xlsx
+[2026-07-27 09:48:47] [SUCCESS] Report salvato.
+[2026-07-27 09:48:55] [INFO] Generazione IP da 10.64.39.x a 10.64.39.x
+[2026-07-27 09:48:55] [INFO] Avvio scansione di 29 host...
+[2026-07-27 09:48:55] [INFO] Avvio RunspacePool (30 thread)...
+[2026-07-27 09:49:03] [INFO] Runspace completati: 29
+[2026-07-27 09:49:03] [INFO] Preparazione report Excel...
+[2026-07-27 09:49:03] [INFO] Template copiato.
+[2026-07-27 09:49:04] [INFO] Worksheet caricata.
+[2026-07-27 09:49:04] [INFO] Esportazione dati...
+[2026-07-27 09:49:04] [SUCCESS] Dati esportati.
+[2026-07-27 09:49:04] [INFO] Righe esportate : -1
+[2026-07-27 09:49:04] [SUCCESS] Formattazione completata.
+[2026-07-27 09:49:04] [SUCCESS] Formattazione condizionale applicata.
+[2026-07-27 09:49:04] [SUCCESS] Report creato.
+[2026-07-27 09:49:04] [SUCCESS] Report creato.
+[2026-07-27 09:49:04] [INFO] C:\ESTAR-Toolkit-v2\Reports\PingMassivo_20260727_094903.xlsx
+[2026-07-27 09:51:49] [SUCCESS] Report salvato.
+[2026-07-27 09:51:58] [INFO] Generazione IP da 10.64.39.x a 10.64.39.x
+[2026-07-27 09:51:58] [INFO] Avvio scansione di 29 host...
+[2026-07-27 09:51:58] [INFO] Avvio RunspacePool (30 thread)...
+[2026-07-27 09:52:06] [INFO] Runspace completati: 29
+[2026-07-27 09:52:07] [INFO] Preparazione report Excel...
+[2026-07-27 09:52:07] [INFO] Template copiato.
+[2026-07-27 09:52:07] [INFO] Worksheet caricata.
+[2026-07-27 09:52:07] [INFO] Esportazione dati...
+[2026-07-27 09:52:07] [SUCCESS] Dati esportati.
+[2026-07-27 09:52:07] [INFO] Righe esportate : -1
+[2026-07-27 09:52:07] [SUCCESS] Formattazione completata.
+[2026-07-27 09:52:07] [SUCCESS] Formattazione condizionale applicata.
+[2026-07-27 09:52:07] [SUCCESS] Report creato.
+[2026-07-27 09:52:07] [SUCCESS] Report creato.
+[2026-07-27 09:52:07] [INFO] C:\ESTAR-Toolkit-v2\Reports\PingMassivo_20260727_095207.xlsx
+[2026-07-27 09:56:19] [SUCCESS] Report salvato.
+[2026-07-27 10:29:16] [INFO] Generazione IP da 10.64.39.x a 10.64.39.x
+[2026-07-27 10:29:16] [INFO] Avvio scansione di 29 host...
+[2026-07-27 10:29:16] [INFO] Avvio RunspacePool (30 thread)...
+[2026-07-27 10:29:29] [INFO] Runspace completati: 29
+[2026-07-27 10:29:31] [INFO] Preparazione report Excel...
+[2026-07-27 10:29:31] [INFO] Template copiato.
+[2026-07-27 10:29:31] [INFO] Worksheet caricata.
+[2026-07-27 10:29:31] [INFO] Esportazione dati...
+[2026-07-27 10:29:31] [SUCCESS] Dati esportati.
+[2026-07-27 10:29:31] [INFO] Righe esportate : -1
+[2026-07-27 10:29:31] [SUCCESS] Formattazione completata.
+[2026-07-27 10:29:31] [SUCCESS] Formattazione condizionale applicata.
+[2026-07-27 10:29:31] [SUCCESS] Report creato.
+[2026-07-27 10:29:31] [SUCCESS] Report creato.
+[2026-07-27 10:29:32] [INFO] C:\ESTAR-Toolkit-v2\Reports\PingMassivo_20260727_102931.xlsx
+[2026-07-27 10:29:32] [SUCCESS] Report salvato.
+[2026-07-27 10:31:56] [INFO] Generazione IP da 10.64.39.x a 10.64.39.x
+[2026-07-27 10:31:56] [INFO] Avvio scansione di 29 host...
+[2026-07-27 10:31:56] [INFO] Avvio RunspacePool (30 thread)...
+[2026-07-27 10:32:05] [INFO] Runspace completati: 29
+[2026-07-27 10:32:06] [INFO] Preparazione report Excel...
+[2026-07-27 10:32:06] [INFO] Template copiato.
+[2026-07-27 10:32:06] [INFO] Worksheet caricata.
+[2026-07-27 10:32:06] [INFO] Esportazione dati...
+[2026-07-27 10:32:06] [SUCCESS] Dati esportati.
+[2026-07-27 10:32:06] [INFO] Righe esportate : -1
+[2026-07-27 10:32:06] [SUCCESS] Formattazione completata.
+[2026-07-27 10:32:06] [SUCCESS] Formattazione condizionale applicata.
+[2026-07-27 10:32:06] [SUCCESS] Report creato.
+[2026-07-27 10:32:06] [SUCCESS] Report creato.
+[2026-07-27 10:32:06] [INFO] C:\ESTAR-Toolkit-v2\Reports\PingMassivo_20260727_103206.xlsx
+[2026-07-27 10:32:09] [SUCCESS] Report salvato.
+[2026-07-27 10:48:32] [INFO] Generazione IP da 10.64.39.x a 10.64.39.x
+[2026-07-27 10:48:32] [INFO] Avvio scansione di 29 host...
+[2026-07-27 10:48:32] [INFO] Avvio RunspacePool (30 thread)...
+[2026-07-27 10:48:41] [INFO] Runspace completati: 29
+[2026-07-27 10:48:41] [INFO] Preparazione report Excel...
+[2026-07-27 10:48:41] [INFO] Template copiato.
+[2026-07-27 10:48:41] [INFO] Worksheet caricata.
+[2026-07-27 10:48:41] [INFO] Esportazione dati...
+[2026-07-27 10:48:42] [SUCCESS] Dati esportati.
+[2026-07-27 10:48:42] [INFO] Righe esportate : -1
+[2026-07-27 10:48:42] [SUCCESS] Formattazione completata.
+[2026-07-27 10:48:42] [SUCCESS] Formattazione condizionale applicata.
+[2026-07-27 10:48:42] [SUCCESS] Report creato.
+[2026-07-27 10:48:42] [SUCCESS] Report creato.
+[2026-07-27 10:52:18] [SUCCESS] Report salvato.
+[2026-07-27 10:52:25] [INFO] Generazione IP da 10.64.39.x a 10.64.39.x
+[2026-07-27 10:52:25] [INFO] Avvio scansione di 29 host...
+[2026-07-27 10:52:25] [INFO] Avvio RunspacePool (30 thread)...
+[2026-07-27 10:52:36] [INFO] Runspace completati: 29
+[2026-07-27 10:52:38] [INFO] Preparazione report Excel...
+[2026-07-27 10:52:38] [INFO] Template copiato.
+[2026-07-27 10:52:38] [INFO] Worksheet caricata.
+[2026-07-27 10:52:38] [INFO] Esportazione dati...
+[2026-07-27 10:52:38] [SUCCESS] Dati esportati.
+[2026-07-27 10:52:39] [INFO] Righe esportate : -1
+[2026-07-27 10:52:39] [SUCCESS] Formattazione completata.
+[2026-07-27 10:52:39] [SUCCESS] Formattazione condizionale applicata.
+[2026-07-27 10:52:39] [SUCCESS] Report creato.
+[2026-07-27 10:52:40] [INFO] C:\ESTAR-Toolkit-v2\Reports\PingMassivo_20260727_105238.xlsx
+[2026-07-27 10:52:42] [SUCCESS] Report salvato.
+[2026-07-27 10:54:43] [INFO] Generazione IP da 10.64.39.x a 10.64.39.x
+[2026-07-27 10:54:43] [INFO] Avvio scansione di 29 host...
+[2026-07-27 10:54:43] [INFO] Avvio RunspacePool (30 thread)...
+[2026-07-27 10:54:51] [INFO] Runspace completati: 29
+[2026-07-27 10:54:52] [INFO] Preparazione report Excel...
+[2026-07-27 10:54:52] [INFO] Template copiato.
+[2026-07-27 10:54:52] [INFO] Worksheet caricata.
+[2026-07-27 10:54:52] [INFO] Esportazione dati...
+[2026-07-27 10:54:52] [SUCCESS] Dati esportati.
+[2026-07-27 10:54:52] [INFO] Righe esportate : -1
+[2026-07-27 10:54:52] [SUCCESS] Formattazione completata.
+[2026-07-27 10:54:52] [SUCCESS] Formattazione condizionale applicata.
+[2026-07-27 10:54:52] [SUCCESS] Report creato.
+[2026-07-27 10:54:52] [SUCCESS] Report creato.
+[2026-07-27 10:54:52] [INFO] C:\ESTAR-Toolkit-v2\Reports\PingMassivo_20260727_105452.xlsx
+[2026-07-27 10:54:56] [SUCCESS] Report salvato.

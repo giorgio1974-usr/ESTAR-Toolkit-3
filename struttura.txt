@@ -1,0 +1,60 @@
+ESTAR Admin Toolkit	EAT
+
+
+
+
+
+
+
+Core
+
+Common.ps1          <- funzioni veramente comuni
+
+Console.ps1         <- tutto ciò che scrive a video
+
+Network.ps1         <- rete
+
+ADSI.ps1            <- utenti e gruppi
+
+Export.ps1          <- csv excel html
+
+Logging.ps1         <- log
+
+Progress.ps1        <- barra avanzamento
+
+Statistics.ps1      <- statistiche
+
+Initialize.ps1
+
+-----------STRUTTURA-------------
+ESTAR-Admin-Toolkit
+│
+├── Config.ps1
+├── Start-ESTARAdminToolkit.ps1
+│
+├── Core
+│   ├── ADSI.ps1
+│   ├── Common.ps1
+│   ├── Export.ps1
+│   ├── Initialize.ps1
+│   └── Network.ps1
+│
+├── Modules
+│   ├── Search-GroupMember.ps1
+│   ├── Add-GroupMember.ps1
+│   ├── Remove-GroupMember.ps1
+│   ├── Get-Administrators.ps1
+│   ├── Get-LocalUsers.ps1
+│   ├── Test-WinRM.ps1
+│   ├── Test-ADSI.ps1
+│   ├── Ping-Massivo.ps1
+│   ├── Resolve-Hostname.ps1
+│   ├── Search-UserEverywhere.ps1
+│   ├── Compare-Administrators.ps1
+│   ├── Remove-UserFromVLAN.ps1
+│   └── Add-UserToVLAN.ps1
+│
+├── Reports
+├── Logs
+├── Temp
+└── Tests

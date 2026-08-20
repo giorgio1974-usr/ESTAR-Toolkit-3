@@ -1,0 +1,135 @@
+[2026-08-19 09:21:08] [SUCCESS] Toolkit inizializzato.
+[2026-08-19 09:28:32] [SUCCESS] Toolkit inizializzato.
+[2026-08-19 09:41:01] [SUCCESS] Toolkit inizializzato.
+[2026-08-19 09:41:33] [INFO] Generazione IP da 10.64.20.x a 10.64.30.x
+[2026-08-19 09:41:34] [INFO] Inventario utenti locali su 2794 indirizzi IP...
+[2026-08-19 09:41:34] [INFO] Avvio RunspacePool (30 thread, 2794 elementi)...
+[2026-08-19 09:42:16] [INFO] Client raggiungibili: 565. Lettura degli utenti locali...
+[2026-08-19 09:42:16] [INFO] Avvio RunspacePool (30 thread, 565 elementi)...
+[2026-08-19 09:43:44] [INFO] Runspace completati: 565
+[2026-08-19 09:43:45] [SUCCESS] Client inventariati: 345
+[2026-08-19 09:43:45] [WARNING] Client raggiungibili ma non interrogabili: 220
+[2026-08-19 09:43:47] [SUCCESS] Excel Engine pronto.
+[2026-08-19 09:43:48] [SUCCESS] Report creato: C:\ESTAR-Toolkit-v3\Reports\UtentiLocali_20260819_094347.xlsx
+[2026-08-19 09:43:48] [SUCCESS] Report creato: C:\ESTAR-Toolkit-v3\Reports\UtentiLocali_20260819_094347.xlsx
+[2026-08-19 09:45:47] [INFO] Generazione IP da 10.64.20.x a 10.64.20.x
+[2026-08-19 09:45:47] [INFO] Inventario utenti locali su 254 indirizzi IP...
+[2026-08-19 09:45:47] [INFO] Avvio RunspacePool (30 thread, 254 elementi)...
+[2026-08-19 09:45:52] [INFO] Client raggiungibili: 46. Lettura degli utenti locali...
+[2026-08-19 09:45:52] [INFO] Avvio RunspacePool (30 thread, 46 elementi)...
+[2026-08-19 09:46:17] [INFO] Runspace completati: 46
+[2026-08-19 09:46:17] [SUCCESS] Client inventariati: 22
+[2026-08-19 09:46:17] [WARNING] Client raggiungibili ma non interrogabili: 24
+[2026-08-19 09:46:17] [SUCCESS] Excel Engine pronto.
+[2026-08-19 09:46:17] [SUCCESS] Report creato: C:\ESTAR-Toolkit-v3\Reports\UtentiLocali_20260819_094617.xlsx
+[2026-08-19 09:46:17] [SUCCESS] Report creato: C:\ESTAR-Toolkit-v3\Reports\UtentiLocali_20260819_094617.xlsx
+[2026-08-19 09:48:42] [INFO] Generazione IP da 10.64.20.x a 10.64.20.x
+[2026-08-19 09:48:42] [INFO] Ricerca membri di Administrators su 254 indirizzi IP...
+[2026-08-19 09:48:42] [INFO] Avvio RunspacePool (30 thread, 254 elementi)...
+[2026-08-19 09:48:47] [INFO] Client raggiungibili: 47. Lettura del gruppo Administrators...
+[2026-08-19 09:48:47] [INFO] Avvio RunspacePool (30 thread, 47 elementi)...
+[2026-08-19 09:49:36] [SUCCESS] Client analizzati: 23
+[2026-08-19 09:49:36] [WARNING] Client raggiungibili ma non interrogabili: 24
+[2026-08-19 09:49:36] [SUCCESS] Excel Engine pronto.
+[2026-08-19 09:49:36] [SUCCESS] Report creato: C:\ESTAR-Toolkit-v3\Reports\RicercaAnomalieAdministrators_20260819_094936.xlsx
+[2026-08-19 09:49:36] [SUCCESS] Report creato: C:\ESTAR-Toolkit-v3\Reports\RicercaAnomalieAdministrators_20260819_094936.xlsx
+[2026-08-19 09:52:38] [SUCCESS] Toolkit inizializzato.
+[2026-08-19 09:52:58] [INFO] Generazione IP da 10.64.20.x a 10.64.20.x
+[2026-08-19 09:52:58] [INFO] Ricerca amministratori locali non standard su 254 indirizzi IP...
+[2026-08-19 09:52:58] [INFO] Avvio RunspacePool (30 thread, 254 elementi)...
+[2026-08-19 09:53:03] [INFO] Client raggiungibili: 47. Lettura del gruppo Administrators...
+[2026-08-19 09:53:03] [INFO] Avvio RunspacePool (30 thread, 47 elementi)...
+[2026-08-19 09:54:01] [SUCCESS] Client analizzati: 23
+[2026-08-19 09:54:01] [WARNING] Client raggiungibili ma non interrogabili: 24
+[2026-08-19 09:54:01] [SUCCESS] Excel Engine pronto.
+[2026-08-19 09:54:01] [SUCCESS] Report creato: C:\ESTAR-Toolkit-v3\Reports\AmministratoriLocali_20260819_095401.xlsx
+[2026-08-19 09:54:01] [SUCCESS] Report creato: C:\ESTAR-Toolkit-v3\Reports\AmministratoriLocali_20260819_095401.xlsx
+[2026-08-19 10:25:44] [SUCCESS] Toolkit inizializzato.
+[2026-08-19 10:29:28] [WARNING] Scelta non valida.
+[2026-08-19 14:05:36] [INFO] Generazione IP da 10.64.1.x a 10.64.254.x
+[2026-08-19 14:05:36] [INFO] Ricerca amministratori locali non standard su 64516 indirizzi IP...
+[2026-08-19 14:05:36] [INFO] Avvio RunspacePool (30 thread, 64516 elementi)...
+[2026-08-19 14:24:06] [INFO] Client raggiungibili: 3895. Lettura del gruppo Administrators...
+[2026-08-19 14:48:39] [SUCCESS] Client analizzati: 1383
+[2026-08-19 14:48:39] [WARNING] Client raggiungibili ma non interrogabili: 2512
+[2026-08-19 14:48:55] [SUCCESS] Excel Engine pronto.
+[2026-08-19 14:50:14] [SUCCESS] Report creato: C:\ESTAR-Toolkit-v3\Reports\AmministratoriLocali_20260819_144855.xlsx
+[2026-08-19 14:50:14] [SUCCESS] Report creato: C:\ESTAR-Toolkit-v3\Reports\AmministratoriLocali_20260819_144855.xlsx
+[2026-08-19 15:38:14] [SUCCESS] Toolkit inizializzato.
+[2026-08-19 15:39:24] [INFO] Generazione IP da 10.64.2.x a 10.64.2.x
+[2026-08-19 15:39:24] [INFO] Ricerca amministratori locali non standard su 254 indirizzi IP...
+[2026-08-19 15:39:24] [INFO] Avvio RunspacePool (30 thread, 254 elementi)...
+[2026-08-19 15:39:29] [INFO] Client raggiungibili: 22. Lettura del gruppo Administrators...
+[2026-08-19 15:39:29] [INFO] Avvio RunspacePool (30 thread, 22 elementi)...
+[2026-08-19 15:39:50] [SUCCESS] Client analizzati: 14
+[2026-08-19 15:39:50] [WARNING] Client raggiungibili ma non interrogabili: 8
+[2026-08-19 15:39:50] [SUCCESS] Excel Engine pronto.
+[2026-08-19 15:39:50] [SUCCESS] Report creato: C:\ESTAR-Toolkit-v3\Reports\AmministratoriLocali_20260819_153950.xlsx
+[2026-08-19 15:39:50] [SUCCESS] Report creato: C:\ESTAR-Toolkit-v3\Reports\AmministratoriLocali_20260819_153950.xlsx
+[2026-08-19 15:44:57] [INFO] Generazione IP da 10.64.2.x a 10.64.2.x
+[2026-08-19 15:44:57] [INFO] Censimento gruppi non standard su 254 indirizzi IP...
+[2026-08-19 15:44:57] [INFO] Avvio RunspacePool (30 thread, 254 elementi)...
+[2026-08-19 15:45:01] [INFO] Avvio RunspacePool (30 thread, 22 elementi)...
+[2026-08-19 15:45:23] [INFO] Runspace completati: 8
+[2026-08-19 15:45:27] [INFO] Nessun gruppo locale non standard trovato.
+[2026-08-19 15:45:30] [WARNING] Client raggiungibili ma non interrogabili: 8
+[2026-08-19 15:46:13] [WARNING] Scelta non valida.
+[2026-08-19 15:46:20] [WARNING] Scelta non valida.
+[2026-08-19 15:46:30] [INFO] Generazione IP da 10.64.2.x a 10.64.2.x
+[2026-08-19 15:46:30] [INFO] Ricerca gruppi di dominio su 254 indirizzi IP...
+[2026-08-19 15:46:30] [INFO] Avvio RunspacePool (30 thread, 254 elementi)...
+[2026-08-19 15:46:34] [INFO] Avvio RunspacePool (30 thread, 22 elementi)...
+[2026-08-19 15:46:55] [INFO] Runspace completati: 80
+[2026-08-19 15:46:55] [SUCCESS] Appartenenze di dominio trovate: 72
+[2026-08-19 15:46:55] [WARNING] Client raggiungibili ma non interrogabili: 8
+[2026-08-19 15:46:56] [SUCCESS] Excel Engine pronto.
+[2026-08-19 15:46:56] [SUCCESS] Report creato: C:\ESTAR-Toolkit-v3\Reports\GruppiDominioLocali_20260819_154656.xlsx
+[2026-08-19 15:46:56] [SUCCESS] Report creato: C:\ESTAR-Toolkit-v3\Reports\GruppiDominioLocali_20260819_154656.xlsx
+[2026-08-19 15:49:09] [WARNING] Scelta non valida.
+[2026-08-19 16:51:55] [SUCCESS] Toolkit inizializzato.
+[2026-08-19 16:52:04] [SUCCESS] Toolkit inizializzato.
+[2026-08-19 16:53:34] [SUCCESS] Toolkit inizializzato.
+[2026-08-19 16:53:34] [WARNING] Scelta non valida.
+[2026-08-19 16:53:35] [WARNING] Scelta non valida.
+[2026-08-19 16:53:36] [WARNING] Scelta non valida.
+[2026-08-19 17:04:47] [SUCCESS] Toolkit inizializzato.
+[2026-08-19 17:09:26] [SUCCESS] Toolkit inizializzato.
+[2026-08-19 17:12:41] [SUCCESS] Toolkit inizializzato.
+[2026-08-19 17:14:25] [SUCCESS] Toolkit inizializzato.
+[2026-08-19 17:54:30] [SUCCESS] Toolkit inizializzato.
+[2026-08-20 10:14:59] [WARNING] Scelta non valida.
+[2026-08-20 10:15:04] [WARNING] Scelta non valida.
+[2026-08-20 10:17:54] [INFO] Generazione IP da 10.64.39.x a 10.64.39.x
+[2026-08-20 10:17:54] [INFO] Ricerca membri di Administrators su 254 indirizzi IP...
+[2026-08-20 10:17:54] [INFO] Avvio RunspacePool (30 thread, 254 elementi)...
+[2026-08-20 10:17:59] [INFO] Client raggiungibili: 35. Lettura del gruppo Administrators...
+[2026-08-20 10:17:59] [INFO] Avvio RunspacePool (30 thread, 35 elementi)...
+[2026-08-20 10:18:20] [SUCCESS] Client analizzati: 21
+[2026-08-20 10:18:20] [WARNING] Client raggiungibili ma non interrogabili: 14
+[2026-08-20 10:18:21] [SUCCESS] Excel Engine pronto.
+[2026-08-20 10:18:21] [SUCCESS] Report creato: C:\ESTAR-Toolkit-v3\Reports\RicercaAnomalieAdministrators_20260820_101821.xlsx
+[2026-08-20 10:18:21] [SUCCESS] Report creato: C:\ESTAR-Toolkit-v3\Reports\RicercaAnomalieAdministrators_20260820_101821.xlsx
+[2026-08-20 10:26:30] [INFO] Generazione IP da 10.64.39.x a 10.64.39.x
+[2026-08-20 10:26:30] [INFO] Ricerca amministratori locali non standard su 254 indirizzi IP...
+[2026-08-20 10:26:30] [INFO] Avvio RunspacePool (30 thread, 254 elementi)...
+[2026-08-20 10:26:35] [INFO] Client raggiungibili: 35. Lettura del gruppo Administrators...
+[2026-08-20 10:26:35] [INFO] Avvio RunspacePool (30 thread, 35 elementi)...
+[2026-08-20 10:26:56] [SUCCESS] Client analizzati: 22
+[2026-08-20 10:26:56] [WARNING] Client raggiungibili ma non interrogabili: 13
+[2026-08-20 10:26:57] [SUCCESS] Excel Engine pronto.
+[2026-08-20 10:26:57] [SUCCESS] Report creato: C:\ESTAR-Toolkit-v3\Reports\AmministratoriLocali_20260820_102657.xlsx
+[2026-08-20 10:26:57] [SUCCESS] Report creato: C:\ESTAR-Toolkit-v3\Reports\AmministratoriLocali_20260820_102657.xlsx
+[2026-08-20 12:00:03] [WARNING] Scelta non valida.
+[2026-08-20 12:00:32] [WARNING] Scelta non valida.
+[2026-08-20 12:01:31] [INFO] Generazione IP da 10.64.39.x a 10.64.39.x
+[2026-08-20 12:01:31] [INFO] Censimento gruppi non standard su 254 indirizzi IP...
+[2026-08-20 12:01:31] [INFO] Avvio RunspacePool (30 thread, 254 elementi)...
+[2026-08-20 12:01:36] [INFO] Avvio RunspacePool (30 thread, 35 elementi)...
+[2026-08-20 12:01:57] [INFO] Runspace completati: 27
+[2026-08-20 12:01:57] [SUCCESS] Gruppi non standard trovati: 14
+[2026-08-20 12:01:57] [WARNING] Client raggiungibili ma non interrogabili: 13
+[2026-08-20 12:01:57] [SUCCESS] Excel Engine pronto.
+[2026-08-20 12:01:57] [SUCCESS] Report creato: C:\ESTAR-Toolkit-v3\Reports\GruppiNonStandard_20260820_120157.xlsx
+[2026-08-20 12:01:57] [SUCCESS] Report creato: C:\ESTAR-Toolkit-v3\Reports\GruppiNonStandard_20260820_120157.xlsx
+[2026-08-20 18:55:37] [WARNING] Scelta non valida.
+[2026-08-20 18:55:38] [WARNING] Scelta non valida.
